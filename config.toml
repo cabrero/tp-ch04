@@ -1,4 +1,4 @@
-baseURL = https://sleepy-hawking-e9a69e.netlify.app/
+baseURL = "https://sleepy-hawking-e9a69e.netlify.app/"
 languageCode = "en-us"
 title = "LOLCODE Documentation"
 theme = "book"
